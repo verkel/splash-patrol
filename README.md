@@ -1,8 +1,6 @@
 # Splash Patrol VR
 
-For Meta Quest 3
-
-*Featured at [Assembly 2024](https://assembly.org/en/articles/game-development-entries-now-playable)*
+*For Meta Quest 3 &ndash; Featured at [Assembly 2024](https://assembly.org/en/articles/game-development-entries-now-playable)*
 
 **New version 1.1 is now available!**
 
