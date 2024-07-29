@@ -8,6 +8,8 @@ For Meta Quest 3
 
 <h1><b><a href="https://github.com/verkel/splash-patrol/releases/download/v1v1/SplashPatrol_1.1.zip">Download v1.1 here!</a></b></h1>
 
+![Screenshot](/SplashPatrol_1.1.jpg)
+
 ## What's new
 
 ### v1.1
